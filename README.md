@@ -1,6 +1,7 @@
 # Dusun–English–Malay Parallel Corpus
 
 A trilingual dataset containing Dusun, English, and Malay words, phrases, and sentences compiled for linguistic research, dictionary development, and machine translation.
+This dataset is based on the Dusun language as spoken by the Dusun ethnic group of Sabah, Malaysia. While the dialect shares approximately 99% similarity with standardized Kadazandusun, there may be minor differences in vocabulary, spelling, and standardisation. Researchers working on Kadazandusun NLP may find this dataset largely applicable.
 
 ## Overview
 
