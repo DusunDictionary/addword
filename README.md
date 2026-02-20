@@ -73,8 +73,7 @@ This dataset can be used for:
 ## Limitations
 
 - Not an exhaustive representation of the language  
-- May contain dialectal variations
-- May differ (99% similar) from the standardised Kadazandusun introduced by the government  
+- May contain dialectal variations  
 - Some translations may be context-dependent  
 - Sentence coverage is not domain-specific  
 
