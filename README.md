@@ -4,7 +4,7 @@ A trilingual dataset containing Kadazandusun (Dusun), English, and Malay words, 
 
 ## Overview
 
-This corpus contains approximately **13,000 entries**, including:
+This corpus contains approximately **13,000 entries** (Feb, 2026), including:
 
 - ~6,000 single-word translations  
 - ~6,000 phrases and full sentences  
